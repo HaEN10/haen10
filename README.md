@@ -8,6 +8,7 @@ B.Sc. in Electronics
 M.Sc. in Communication Systems
 Interested in Pattern Recognition and Computer Vision.
 ------------------------------------------------------
+
 f(Available)^{-1}
 
 
