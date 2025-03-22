@@ -2,12 +2,13 @@ html, body {
     height: 100%;  
     margin: 0;  
     background-color: white;  
-    display: flex;          /* Use flexbox to center content */  
-    justify-content: center; /* Center horizontally */  
-    align-items: center;     /* Center vertically */  
-    text-align: center;      /* Center text alignment */  
+    display: flex;              
+    justify-content: center;    
+    align-items: center;        
+    text-align: center;        
+    flex-direction: column;  
 }  
 
 h1, p {  
-    margin: 10px;           /* Optional: Add some margin for better spacing */  
+    margin: 10px;          
 }  
