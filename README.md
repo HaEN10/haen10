@@ -1,9 +1,6 @@
 Hi, My friends call me Habib 
 ============================
 
-M.Sc. Telecommunication Systems
----------------------------
-
 B.Sc. in Electronics
 
 M.Sc. in Telecommunication Systems
