@@ -6,7 +6,7 @@ M.Sc. Communication Systems
 
 B.Sc. in Electronics
 
-M.Sc. in Communication Systems
+M.Sc. in Telecommunication Systems
 
 Interested in Pattern Recognition and Computer Vision.
 
